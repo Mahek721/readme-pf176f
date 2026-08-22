@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://Mahek721.github.io/readme-pf176f/sitemap.xml
